@@ -1,0 +1,3 @@
+-the main course i used to learn git and github
+-along side the course by reece kenny.
+-both courses are from Udemy.
